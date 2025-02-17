@@ -42,7 +42,6 @@ memory-scanner
 ├── src
 │   ├── __init__.py
 │   ├── memory_scanner.py
-│   └── utils.py
 ├── tests
 │   ├── __init__.py
 │   └── test_memory_scanner.py
