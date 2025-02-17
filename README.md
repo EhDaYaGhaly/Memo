@@ -28,7 +28,7 @@ A Python application to scan and modify memory values of a running process.
 1. Run the application:
 
     ```bash
-    python cli/app.py
+    python cli.app
     ```
 
 2. Follow the prompts to enter the process name, initial value, new value, and modification value.
