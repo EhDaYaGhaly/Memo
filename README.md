@@ -13,8 +13,7 @@ A Python application to scan and modify memory values of a running process.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/memory-scanner.git
-    cd memory-scanner
+    git clone https://github.com/EhDaYaGhaly/Memo
     ```
 
 2. Install the required dependencies:
