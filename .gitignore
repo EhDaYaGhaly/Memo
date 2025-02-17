@@ -1,1 +1,4 @@
 scanner.py
+__pycache__
+.vscode/settings.json
+

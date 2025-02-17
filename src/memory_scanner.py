@@ -3,7 +3,7 @@ import pymem.process
 import struct
 import time
 
-def get_process(name):
+def get_process(name): #process class
     try:
         return pymem.Pymem(name)
     except Exception as e:
