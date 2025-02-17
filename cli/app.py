@@ -1,4 +1,4 @@
-from src.scanner import get_process, scan_memory, filter_changed_addresses, modify_memory
+from src.memory_scanner import get_process, scan_memory, filter_changed_addresses, modify_memory
 def main():
     process_name = input("Enter process name: ")
     pm = get_process(process_name)
