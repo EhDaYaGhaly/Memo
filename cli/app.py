@@ -1,4 +1,4 @@
-from src.memory_scanner import get_process, scan_memory, filter_changed_addresses, modify_memory ## todo : add option to keep filtering or modify all filtered addresses
+from src.memory_scanner import get_process, scan_memory, filter_changed_addresses, modify_memory 
 def main():
     process_name = input("Enter process name: (example.exe)")
     pm = get_process(process_name)
